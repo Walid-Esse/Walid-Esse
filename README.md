@@ -2,7 +2,7 @@
 ## My name is Walid
 ## - 🔭 I’m currently working on: building a website
 ## - 🌱 I’m currently learning: C
-## - 😄 Pronouns:he/him/his
+## - 😄 Pronouns: he/him/his
 ## - ⚡ Fun fact: I have 3 younger sisters
 ## - 📫 How to reach me: email - esse0088@umn.edu
 
